@@ -90,7 +90,7 @@ main:first-of-type, nav:first-child {
   height: 128px;
   border: 0 solid black;
   border-radius: 50%;
-  box-shadow: 0px 0px 8px 3px var(--bg-techs);
+  box-shadow: 0px 0px 8px 1px var(--bg-techs);
 }
 
 .profile-picture {
